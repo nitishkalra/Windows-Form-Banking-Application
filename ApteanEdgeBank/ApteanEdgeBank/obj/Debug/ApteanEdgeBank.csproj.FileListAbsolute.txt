@@ -1,0 +1,14 @@
+C:\Users\nkalra\source\repos\ApteanEdgeBank\ApteanEdgeBank\bin\Debug\ApteanEdgeBank.exe.config
+C:\Users\nkalra\source\repos\ApteanEdgeBank\ApteanEdgeBank\bin\Debug\ApteanEdgeBank.exe
+C:\Users\nkalra\source\repos\ApteanEdgeBank\ApteanEdgeBank\bin\Debug\ApteanEdgeBank.pdb
+C:\Users\nkalra\source\repos\ApteanEdgeBank\ApteanEdgeBank\obj\Debug\ApteanEdgeBank.csprojAssemblyReference.cache
+C:\Users\nkalra\source\repos\ApteanEdgeBank\ApteanEdgeBank\obj\Debug\ApteanEdgeBank.EntryScreenForm.resources
+C:\Users\nkalra\source\repos\ApteanEdgeBank\ApteanEdgeBank\obj\Debug\ApteanEdgeBank.Properties.Resources.resources
+C:\Users\nkalra\source\repos\ApteanEdgeBank\ApteanEdgeBank\obj\Debug\ApteanEdgeBank.csproj.GenerateResource.cache
+C:\Users\nkalra\source\repos\ApteanEdgeBank\ApteanEdgeBank\obj\Debug\ApteanEdgeBank.csproj.CoreCompileInputs.cache
+C:\Users\nkalra\source\repos\ApteanEdgeBank\ApteanEdgeBank\obj\Debug\ApteanEdgeBank.exe
+C:\Users\nkalra\source\repos\ApteanEdgeBank\ApteanEdgeBank\obj\Debug\ApteanEdgeBank.pdb
+C:\Users\nkalra\source\repos\ApteanEdgeBank\ApteanEdgeBank\obj\Debug\ApteanEdgeBank.AddCustomerForm.resources
+C:\Users\nkalra\source\repos\ApteanEdgeBank\ApteanEdgeBank\obj\Debug\ApteanEdgeBank.AccountTypeForm.resources
+C:\Users\nkalra\source\repos\ApteanEdgeBank\ApteanEdgeBank\obj\Debug\ApteanEdgeBank.AccountInfoForm.resources
+C:\Users\nkalra\source\repos\ApteanEdgeBank\ApteanEdgeBank\obj\Debug\ApteanEdgeBank.AccountLedgerForm.resources
